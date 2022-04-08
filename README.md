@@ -9,7 +9,7 @@ The following R command installs the stable version from CRAN:
 To install the current development version available here at Github, use the following command:
 
     install.packages(
-      "https://github.com/gsucarrat/lgarch/raw/master/lgarch_devel.tar.gz",
+      "https://github.com/gsucarrat/lgarch/blob/main/lgarch_devel.tar.gz",    
       repos = NULL, type = "source"
     )
  
